@@ -1,0 +1,9 @@
+{
+    "name": "com.Demigiant.dotween",
+    "displayName": "dotween",
+    "description": "A Unity C# animation/tween engine. HOTween v2.",
+    "version": "1.2.305",
+    "author": "Daniele Giardini",
+    "dependencies": {}
+  }
+  
